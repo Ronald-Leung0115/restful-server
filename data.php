@@ -36,7 +36,7 @@ foreach ($bbqs as $bbq) {
 	$ancillary_facilities_en = $bbq['Ancillary_facilities_en'];
 	$ancillary_facilities_cn = $bbq['Ancillary_facilities_cn'];
 	$opening_hours_en = $bbq['Opening_hours_en'];
-	$opening_hours_cn = $bbq['Opening_hour s_cn'];
+	$opening_hours_cn = $bbq['Opening_hours_cn'];
 	$phone = $bbq['Phone'];
 	$remarks_en = $bbq['Remarks_en'];
 	$remarks_cn = $bbq['Remarks_cn'];
